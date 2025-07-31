@@ -370,3 +370,16 @@ merged_df = merged_df[['Name', 'Country_Code', 'Year', 'Predicted_Incidence']]
 # Save the final file
 merged_df.to_csv("malaria_predictions_with_names.csv", index=False)
 ```
+**DAX CODE**
+---
+```python
+Countries = DISTINCT(SELECTCOLUMNS(malaria_cleaned, "Country_Code", malaria_cleaned[ISO3], "Name", malaria_cleaned[Name]))
+```
+![Screenshoots](screenshoots/dax.PNG)
+**POWER BI FOR EDA**
+---
+![Screenshoots](screenshoots/eda.PNG)
+
+**POWER BI FOR ML(Machine Learning)
+---
+![Screenshoots](screenshoots/ml.PNG)
