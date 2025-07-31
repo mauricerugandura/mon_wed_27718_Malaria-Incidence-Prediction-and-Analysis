@@ -74,11 +74,55 @@ Instructor: *Eric Maniraguha*
 
 ---
 
-
 ## 📬 Contact
 
 For any questions or feedback, feel free to reach out!
 
 ---
+
+```python
+import pandas as pd
+```
+```python
+# Load the dataset
+file_path = "openafrica-_-malaria-_-national_unit-data-raw-national_unit-data.csv.csv"
+df = pd.read_csv(file_path)
+
+```
+```python
+# Step 1: Filter only relevant metrics (Incidence Rate and Mortality Rate)
+filtered_df = df[df["Metric"].isin(["Incidence Rate", "Mortality Rate"])]
+```
+```python
+# Step 2: Pivot data so each row = country + year, with separate columns for each metric
+pivot_df = filtered_df.pivot_table(
+    index=["ISO3", "Name", "Year"],
+    columns="Metric",
+    values="Value"
+).reset_index()
+```
+```python
+# Step 3: Rename columns just in case
+pivot_df.columns.name = None  # Remove pandas-generated name for columns
+pivot_df.rename(columns={
+    "Incidence Rate": "Incidence_Rate",
+    "Mortality Rate": "Mortality_Rate"
+}, inplace=True)
+```
+```python
+# Step 4: Ensure Year is integer
+pivot_df["Year"] = pivot_df["Year"].astype(int)
+```
+```python
+# Step 5: Optional - check for missing values
+print("Missing values per column:")
+print(pivot_df.isnull().sum())
+```
+![Dashboard Screenshot](screenshoots/missingvalues.png)
+```python
+# Final preview
+print("\nCleaned Data Sample:")
+print(pivot_df.head())
+```
 
 
