@@ -380,7 +380,11 @@ Countries = DISTINCT(SELECTCOLUMNS(malaria_cleaned, "Country_Code", malaria_clea
 ---
 ![Screenshoots](screenshoots/eda.PNG)
 
-**POWER BI FOR ML(Machine Learning)
+**POWER BI FOR ML(Machine Learning)**
 ---
 ![Screenshoots](screenshoots/ml.PNG)
 
+## Contact Us 
+If you have any questions or suggestions, feel free to reach out:
+
+📧 [mauricerugandura123@gmail.com](mailto:mauricerugandura123@gmail.com)
