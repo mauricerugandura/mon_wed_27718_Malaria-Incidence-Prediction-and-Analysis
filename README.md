@@ -74,12 +74,6 @@ Instructor: *Eric Maniraguha*
 
 ---
 
-## 📬 Contact
-
-For any questions or feedback, feel free to reach out!
-
----
-
 ```python
 import pandas as pd
 ```
