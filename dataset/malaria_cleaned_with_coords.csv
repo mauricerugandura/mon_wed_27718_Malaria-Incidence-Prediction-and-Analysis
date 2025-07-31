@@ -1,0 +1,1167 @@
+ISO3,Name,Year,Incidence_Rate,Mortality_Rate,Country_Code,phonecode,currency_name,region_id,subregion_id,nationality,Latitude,Longitude
+AFG,Afghanistan,2010,1.176667319,1.130838625,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AFG,Afghanistan,2011,1.05386903,1.169705479,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AFG,Afghanistan,2012,0.2131294699,0.2553300527,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AFG,Afghanistan,2013,0.3677005556,0.380514926,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AFG,Afghanistan,2014,0.6535005385,0.6844482471,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AFG,Afghanistan,2015,0.8256715037,0.8577355442,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AFG,Afghanistan,2016,1.341178774,1.512949665,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AFG,Afghanistan,2017,1.452136487,1.748803169,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AFG,Afghanistan,2018,0.871617755,0.9556871175,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AFG,Afghanistan,2019,0.2891960117,0.1784067576,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AFG,Afghanistan,2020,0.2436211705,0.1547279761,0,93.0,Afghan afghani,3.0,14.0,Afghan,33.0,65.0
+AGO,Angola,2010,172.7190884,39.68048219,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+AGO,Angola,2011,157.1727726,32.59528811,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+AGO,Angola,2012,154.216367,29.41826487,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+AGO,Angola,2013,160.6983704,28.24371655,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+AGO,Angola,2014,166.7796917,28.19484004,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+AGO,Angola,2015,176.6835479,29.76009845,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+AGO,Angola,2016,189.4521985,30.26542926,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+AGO,Angola,2017,208.9487822,31.94215566,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+AGO,Angola,2018,224.515873,35.02372509,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+AGO,Angola,2019,239.6239212,35.48165413,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+AGO,Angola,2020,270.2229328,46.53014588,2,244.0,Angolan kwanza,1.0,2.0,Angolan,-12.5,18.5
+ARG,Argentina,2010,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARG,Argentina,2011,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARG,Argentina,2012,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARG,Argentina,2013,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARG,Argentina,2014,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARG,Argentina,2015,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARG,Argentina,2016,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARG,Argentina,2017,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARG,Argentina,2018,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARG,Argentina,2019,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARG,Argentina,2020,0.0,0.0,3,54.0,Argentine peso,2.0,8.0,Argentine,-34.0,-64.0
+ARM,Armenia,2010,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+ARM,Armenia,2011,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+ARM,Armenia,2012,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+ARM,Armenia,2013,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+ARM,Armenia,2014,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+ARM,Armenia,2015,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+ARM,Armenia,2016,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+ARM,Armenia,2017,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+ARM,Armenia,2018,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+ARM,Armenia,2019,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+ARM,Armenia,2020,0.0,0.0,4,374.0,Armenian dram,3.0,11.0,Armenian,40.0,45.0
+AZE,Azerbaijan,2010,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+AZE,Azerbaijan,2011,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+AZE,Azerbaijan,2012,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+AZE,Azerbaijan,2013,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+AZE,Azerbaijan,2014,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+AZE,Azerbaijan,2015,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+AZE,Azerbaijan,2016,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+AZE,Azerbaijan,2017,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+AZE,Azerbaijan,2018,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+AZE,Azerbaijan,2019,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+AZE,Azerbaijan,2020,0.0,0.0,5,994.0,Azerbaijani manat,3.0,11.0,"Azerbaijani, Azeri",40.5,47.5
+BDI,Burundi,2010,169.3153143,82.18373919,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BDI,Burundi,2011,164.9044848,74.31475182,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BDI,Burundi,2012,164.608692,68.41568024,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BDI,Burundi,2013,170.3041963,68.00376256,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BDI,Burundi,2014,176.2170148,65.13089497,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BDI,Burundi,2015,194.2729005,70.32297071,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BDI,Burundi,2016,228.8994743,82.5333852,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BDI,Burundi,2017,250.0573228,88.36722962,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BDI,Burundi,2018,291.169273,107.9091007,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BDI,Burundi,2019,301.7969207,108.6053272,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BDI,Burundi,2020,318.6268681,137.4805461,14,257.0,Burundian franc,1.0,4.0,Burundian,-3.5,30.0
+BEN,Benin,2010,416.3781097,121.2240692,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BEN,Benin,2011,387.1201153,108.306312,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BEN,Benin,2012,365.4420511,98.13856397,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BEN,Benin,2013,359.5166574,91.59700602,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BEN,Benin,2014,364.2459746,88.67694875,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BEN,Benin,2015,386.1354825,89.76435072,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BEN,Benin,2016,418.4942963,91.8748039,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BEN,Benin,2017,422.1783074,91.29278455,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BEN,Benin,2018,409.7846488,98.60752459,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BEN,Benin,2019,401.2998518,90.6506121,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BEN,Benin,2020,388.7236153,89.97001319,8,229.0,West African CFA franc,1.0,3.0,"Beninese, Beninois",9.5,2.25
+BFA,Burkina Faso,2010,571.2892017,255.9973835,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BFA,Burkina Faso,2011,557.0880289,240.6508239,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BFA,Burkina Faso,2012,534.1525422,221.5954516,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BFA,Burkina Faso,2013,487.1990864,194.5652554,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BFA,Burkina Faso,2014,448.0787385,171.7878779,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BFA,Burkina Faso,2015,423.6169941,156.4273723,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BFA,Burkina Faso,2016,382.6315146,134.6872117,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BFA,Burkina Faso,2017,369.6702542,129.2746497,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BFA,Burkina Faso,2018,369.2080105,136.6861675,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BFA,Burkina Faso,2019,366.0815177,135.6980682,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BFA,Burkina Faso,2020,390.6408221,163.8914851,13,226.0,West African CFA franc,1.0,3.0,Burkinabe,13.0,-2.0
+BGD,Bangladesh,2010,2.411025711,2.745850138,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BGD,Bangladesh,2011,2.271799492,3.058417931,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BGD,Bangladesh,2012,1.38717236,1.712185332,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BGD,Bangladesh,2013,1.203735386,1.532628541,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BGD,Bangladesh,2014,2.270423144,3.354128655,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BGD,Bangladesh,2015,1.554524783,2.573835907,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BGD,Bangladesh,2016,1.084244885,1.62872266,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BGD,Bangladesh,2017,1.773524832,2.883381495,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BGD,Bangladesh,2018,0.4065583165,0.5896171108,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BGD,Bangladesh,2019,0.5728951006,0.6445734942,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BGD,Bangladesh,2020,0.2151167743,0.2445542051,6,880.0,Bangladeshi taka,3.0,14.0,Bangladeshi,24.0,90.0
+BLZ,Belize,2010,0.0,0.0,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BLZ,Belize,2011,0.0,0.0,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BLZ,Belize,2012,0.0,0.0,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BLZ,Belize,2013,0.0,0.0,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BLZ,Belize,2014,0.0,0.0,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BLZ,Belize,2015,0.0,0.0,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BLZ,Belize,2016,0.0,0.0,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BLZ,Belize,2017,0.0,0.0,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BLZ,Belize,2018,0.002383009877,0.00596187749,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BLZ,Belize,2019,0.0,0.0,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BLZ,Belize,2020,0.0,0.0,7,501.0,Belize dollar,2.0,9.0,Belizean,17.25,-88.75
+BOL,Bolivia,2010,0.3040178323,0.1159477694,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BOL,Bolivia,2011,0.09406269026,0.03767664507,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BOL,Bolivia,2012,0.1038115589,0.04257638748,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BOL,Bolivia,2013,0.2090888929,0.07045829175,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BOL,Bolivia,2014,0.0928376457,0.03662137085,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BOL,Bolivia,2015,0.015705874,0.006430824428,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BOL,Bolivia,2016,0.001671707333,0.0006193497318,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BOL,Bolivia,2017,0.00147028205,0.0005040855856,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BOL,Bolivia,2018,0.0,0.0,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BOL,Bolivia,2019,0.004674717994,0.001501877193,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BOL,Bolivia,2020,0.01217502195,0.003709906754,10,591.0,Bolivian boliviano,2.0,8.0,Bolivian,-17.0,-65.0
+BRA,Brazil,2010,0.437400218,0.1822989932,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BRA,Brazil,2011,0.333263224,0.1501376235,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BRA,Brazil,2012,0.3269393367,0.1429912553,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BRA,Brazil,2013,0.255627431,0.1070644985,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BRA,Brazil,2014,0.2061049048,0.07833394881,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BRA,Brazil,2015,0.1676548511,0.06173129853,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BRA,Brazil,2016,0.1509353443,0.04275385939,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BRA,Brazil,2017,0.1946701008,0.05091405035,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BRA,Brazil,2018,0.1777151643,0.04606662199,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BRA,Brazil,2019,0.177650366,0.04380639811,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BRA,Brazil,2020,0.2334948094,0.06278401201,12,55.0,Brazilian real,2.0,8.0,Brazilian,-10.0,-55.0
+BTN,Bhutan,2010,0.4197065727,0.21653107,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BTN,Bhutan,2011,0.2776913126,0.1530478852,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BTN,Bhutan,2012,0.09115386896,0.04926481013,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BTN,Bhutan,2013,0.02450487268,0.01532950271,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BTN,Bhutan,2014,0.02683627906,0.0194263141,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BTN,Bhutan,2015,0.03904270242,0.03160956971,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BTN,Bhutan,2016,0.003269728536,0.002639697051,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BTN,Bhutan,2017,7.59e-07,5.32e-07,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BTN,Bhutan,2018,0.002761837579,0.002517935256,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BTN,Bhutan,2019,0.003339193849,0.002117801476,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BTN,Bhutan,2020,4.54e-07,1.91e-07,9,975.0,Bhutanese ngultrum,3.0,14.0,Bhutanese,27.5,90.5
+BWA,Botswana,2010,1.911392574,0.3987246149,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+BWA,Botswana,2011,0.5839823016,0.1055335562,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+BWA,Botswana,2012,0.263020673,0.04235397105,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+BWA,Botswana,2013,0.6062945236,0.09742458248,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+BWA,Botswana,2014,1.71627028,0.2440128951,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+BWA,Botswana,2015,0.3701435582,0.0425281094,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+BWA,Botswana,2016,0.8627432335,0.1150049656,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+BWA,Botswana,2017,2.407253738,0.3339745479,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+BWA,Botswana,2018,0.6912986944,0.082110801,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+BWA,Botswana,2019,0.2154694558,0.03535799606,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+BWA,Botswana,2020,1.121583096,0.2965106465,11,267.0,Botswana pula,1.0,5.0,"Motswana, Botswanan",-22.0,24.0
+CAF,Central African Republic,2010,395.6018219,128.9389401,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CAF,Central African Republic,2011,385.8121956,120.0740868,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CAF,Central African Republic,2012,377.7250606,116.636132,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CAF,Central African Republic,2013,371.1903062,115.199843,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CAF,Central African Republic,2014,362.6549749,114.2481,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CAF,Central African Republic,2015,346.4429008,106.5938583,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CAF,Central African Republic,2016,334.1203376,98.51895077,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CAF,Central African Republic,2017,328.6994709,94.69024445,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CAF,Central African Republic,2018,324.6673387,95.83508166,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CAF,Central African Republic,2019,322.8727975,90.95906721,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CAF,Central African Republic,2020,316.0717208,90.46016984,18,236.0,Central African CFA franc,1.0,2.0,Central African,7.0,21.0
+CHN,China,2010,0.002000731658,0.0008564879199,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CHN,China,2011,0.0008275772236,0.0002957901756,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CHN,China,2012,3.285333453e-05,9.494083526e-06,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CHN,China,2013,1.472981101e-05,4.69494116e-06,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CHN,China,2014,4.234823019e-06,1.075324442e-06,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CHN,China,2015,6.39e-07,1.01e-07,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CHN,China,2016,0.0,0.0,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CHN,China,2017,0.0,0.0,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CHN,China,2018,0.0,0.0,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CHN,China,2019,0.0,0.0,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CHN,China,2020,0.0,0.0,20,86.0,Chinese yuan,3.0,12.0,Chinese,35.0,105.0
+CIV,Côte d'Ivoire,2010,484.9553938,210.4494003,25,,,,,,,
+CIV,Côte d'Ivoire,2011,459.8888702,195.9867386,25,,,,,,,
+CIV,Côte d'Ivoire,2012,382.5103805,155.6880173,25,,,,,,,
+CIV,Côte d'Ivoire,2013,294.2495989,112.325457,25,,,,,,,
+CIV,Côte d'Ivoire,2014,265.4732757,93.70203203,25,,,,,,,
+CIV,Côte d'Ivoire,2015,247.7355775,83.27311058,25,,,,,,,
+CIV,Côte d'Ivoire,2016,251.3122203,79.73478232,25,,,,,,,
+CIV,Côte d'Ivoire,2017,259.9840168,78.35321511,25,,,,,,,
+CIV,Côte d'Ivoire,2018,272.335982,82.63163439,25,,,,,,,
+CIV,Côte d'Ivoire,2019,281.1871144,93.23776491,25,,,,,,,
+CIV,Côte d'Ivoire,2020,286.4507962,106.5809478,25,,,,,,,
+CMR,Cameroon,2010,290.8703665,102.1197073,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+CMR,Cameroon,2011,268.4429145,94.07052191,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+CMR,Cameroon,2012,258.0286036,85.57010589,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+CMR,Cameroon,2013,262.1033843,81.35392912,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+CMR,Cameroon,2014,261.8995909,76.54903871,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+CMR,Cameroon,2015,261.2985529,72.65239658,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+CMR,Cameroon,2016,257.6120172,71.03210144,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+CMR,Cameroon,2017,250.5688829,70.89464104,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+CMR,Cameroon,2018,247.3347784,68.29673695,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+CMR,Cameroon,2019,244.1031201,67.97450031,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+CMR,Cameroon,2020,260.4133052,88.13246248,16,237.0,Central African CFA franc,1.0,2.0,Cameroonian,6.0,12.0
+COD,Democratic Republic of the Congo,2010,393.5153006,186.5332582,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COD,Democratic Republic of the Congo,2011,369.8069463,165.3130021,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COD,Democratic Republic of the Congo,2012,340.8020186,142.9049017,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COD,Democratic Republic of the Congo,2013,312.1004686,123.7762141,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COD,Democratic Republic of the Congo,2014,294.2958689,109.4656382,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COD,Democratic Republic of the Congo,2015,292.835596,103.1038455,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COD,Democratic Republic of the Congo,2016,302.1723104,102.3452025,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COD,Democratic Republic of the Congo,2017,315.7903652,105.2933889,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COD,Democratic Republic of the Congo,2018,326.545774,96.74917321,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COD,Democratic Republic of the Congo,2019,329.3748452,98.23483526,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COD,Democratic Republic of the Congo,2020,327.2356443,107.0817119,26,243.0,Congolese Franc,1.0,2.0,Congolese,0.0,25.0
+COG,Congo,2010,201.1334888,47.0707561,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COG,Congo,2011,198.4821188,46.97637467,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COG,Congo,2012,195.6917802,46.12700504,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COG,Congo,2013,193.949239,42.95068548,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COG,Congo,2014,186.5001266,39.63620982,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COG,Congo,2015,184.0142456,38.3649814,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COG,Congo,2016,190.0240982,38.76862817,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COG,Congo,2017,205.8388496,40.91795652,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COG,Congo,2018,217.6324488,43.63275069,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COG,Congo,2019,215.9171426,40.92165244,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COG,Congo,2020,212.5356589,47.73893628,23,242.0,Congolese Franc,1.0,2.0,Congolese,-1.0,15.0
+COL,Colombia,2010,1.464679691,0.4515313874,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COL,Colombia,2011,0.6669681223,0.221827276,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COL,Colombia,2012,1.083808672,0.3456814687,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COL,Colombia,2013,0.7260097798,0.2523380554,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COL,Colombia,2014,0.8068714607,0.2576238947,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COL,Colombia,2015,1.107778029,0.3234327817,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COL,Colombia,2016,1.974119083,0.5806053328,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COL,Colombia,2017,1.190462939,0.3537289281,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COL,Colombia,2018,1.204094023,0.3937542129,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COL,Colombia,2019,1.578898335,0.2663756875,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COL,Colombia,2020,1.567976963,0.2984534935,21,57.0,Colombian peso,2.0,8.0,Colombian,4.0,-72.0
+COM,Comoros,2010,260.9251398,141.35551,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+COM,Comoros,2011,204.1151091,104.9321269,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+COM,Comoros,2012,241.5267348,114.6837848,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+COM,Comoros,2013,212.8403226,91.53157432,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+COM,Comoros,2014,8.974909969,3.381899365,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+COM,Comoros,2015,8.015018948,2.756162156,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+COM,Comoros,2016,5.664476561,1.799173173,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+COM,Comoros,2017,15.02678923,4.721789419,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+COM,Comoros,2018,59.2510264,17.78967944,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+COM,Comoros,2019,63.01626123,10.94070948,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+COM,Comoros,2020,16.21306661,4.056123526,22,269.0,Comorian franc,1.0,4.0,"Comoran, Comorian",-12.16666666,44.25
+CPV,Cape Verde,2010,0.2206921466,0.03152813516,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CPV,Cape Verde,2011,0.03029828165,0.007292675576,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CPV,Cape Verde,2012,0.00408458267,0.0004715187618,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CPV,Cape Verde,2013,0.07272246204,0.007786535813,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CPV,Cape Verde,2014,0.08886653971,0.008959177186,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CPV,Cape Verde,2015,0.02225000204,0.001997040168,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CPV,Cape Verde,2016,0.152065771,0.02670810782,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CPV,Cape Verde,2017,1.328722028,0.1373112626,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CPV,Cape Verde,2018,0.006107473858,0.001485178504,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CPV,Cape Verde,2019,0.001037677248,0.0001417746556,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CPV,Cape Verde,2020,0.0,0.0,17,238.0,Cape Verdean escudo,1.0,3.0,Verdean,16.0,-24.0
+CRI,Costa Rica,2010,0.0,0.0,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+CRI,Costa Rica,2011,0.0,0.0,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+CRI,Costa Rica,2012,0.0,0.0,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+CRI,Costa Rica,2013,0.0,0.0,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+CRI,Costa Rica,2014,0.0,0.0,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+CRI,Costa Rica,2015,0.0,0.0,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+CRI,Costa Rica,2016,0.0,0.0,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+CRI,Costa Rica,2017,0.0,0.0,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+CRI,Costa Rica,2018,0.003134048542,0.004732720906,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+CRI,Costa Rica,2019,0.001788614869,0.004467074643,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+CRI,Costa Rica,2020,0.0005019608474,0.004240966948,24,506.0,Costa Rican colón,2.0,9.0,Costa Rican,10.0,-84.0
+DJI,Djibouti,2010,3.200020597,1.687627786,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DJI,Djibouti,2011,0.1127582551,0.05319075238,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DJI,Djibouti,2012,0.0648767227,0.0255402796,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DJI,Djibouti,2013,3.738389132,1.430249845,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DJI,Djibouti,2014,31.50398561,10.67369356,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DJI,Djibouti,2015,29.6545602,8.589933399,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DJI,Djibouti,2016,38.73612912,10.73389312,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DJI,Djibouti,2017,31.72237185,8.242510384,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DJI,Djibouti,2018,52.09970445,17.84383884,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DJI,Djibouti,2019,103.7166974,13.6285892,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DJI,Djibouti,2020,109.1356058,33.56216577,27,253.0,Djiboutian franc,1.0,4.0,Djiboutian,11.5,43.0
+DOM,Dominican Republic,2010,0.5237578889,0.3186075725,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DOM,Dominican Republic,2011,0.3459283937,0.2210025241,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DOM,Dominican Republic,2012,0.1973972806,0.1291399103,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DOM,Dominican Republic,2013,0.0994652533,0.05792488753,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DOM,Dominican Republic,2014,0.09747704064,0.05579837149,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DOM,Dominican Republic,2015,0.1255242757,0.06982810644,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DOM,Dominican Republic,2016,0.1363502513,0.07265844281,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DOM,Dominican Republic,2017,0.06622990352,0.03117620145,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DOM,Dominican Republic,2018,0.08592203882,0.03894284693,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DOM,Dominican Republic,2019,0.2428020364,0.08669041144,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DOM,Dominican Republic,2020,0.1603519683,0.05968565863,28,1.0,Dominican peso,2.0,7.0,Dominican,19.0,-70.66666666
+DZA,Algeria,2010,5.13e-16,0.0001055644905,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+DZA,Algeria,2011,7.83e-16,5.483084138e-05,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+DZA,Algeria,2012,0.0006013546306,0.0006185498205,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+DZA,Algeria,2013,6.31e-16,6.749115282e-05,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+DZA,Algeria,2014,0.0,0.0,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+DZA,Algeria,2015,0.0,0.0,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+DZA,Algeria,2016,0.0,0.0,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+DZA,Algeria,2017,0.0,0.0,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+DZA,Algeria,2018,0.0,0.0,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+DZA,Algeria,2019,0.0,0.0,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+DZA,Algeria,2020,0.0,0.0,1,213.0,Algerian dinar,1.0,1.0,Algerian,28.0,3.0
+ECU,Ecuador,2010,0.04581780603,0.01608354904,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ECU,Ecuador,2011,0.05770630493,0.02039979266,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ECU,Ecuador,2012,0.01356256148,0.004200518833,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ECU,Ecuador,2013,0.02419671944,0.01012751751,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ECU,Ecuador,2014,0.006454602024,0.002087919006,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ECU,Ecuador,2015,0.02722196164,0.008756162554,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ECU,Ecuador,2016,0.05766716211,0.01849299189,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ECU,Ecuador,2017,0.04560798837,0.0137884448,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ECU,Ecuador,2018,0.02101739101,0.006858356216,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ECU,Ecuador,2019,0.02903565766,0.003053938219,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ECU,Ecuador,2020,0.03013031963,0.004107302706,29,593.0,United States dollar,2.0,8.0,Ecuadorian,-2.0,-77.5
+ERI,Eritrea,2010,11.9491825,4.035553436,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ERI,Eritrea,2011,15.48074743,5.224215507,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ERI,Eritrea,2012,8.779068831,2.73386753,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ERI,Eritrea,2013,6.1189892,1.754826905,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ERI,Eritrea,2014,15.83835414,4.046037669,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ERI,Eritrea,2015,10.22733354,2.501076413,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ERI,Eritrea,2016,13.85383564,3.325438246,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ERI,Eritrea,2017,14.13685859,3.405795925,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ERI,Eritrea,2018,12.75520921,3.05096428,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ERI,Eritrea,2019,26.84599874,5.149243246,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ERI,Eritrea,2020,22.99771337,4.573722955,32,291.0,Eritrean nakfa,1.0,4.0,Eritrean,15.0,39.0
+ETH,Ethiopia,2010,147.0411838,33.0167058,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+ETH,Ethiopia,2011,108.8131146,22.47423953,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+ETH,Ethiopia,2012,114.3842023,22.36669179,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+ETH,Ethiopia,2013,131.7960907,23.25755585,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+ETH,Ethiopia,2014,65.08142871,11.26505959,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+ETH,Ethiopia,2015,65.22158178,10.78104901,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+ETH,Ethiopia,2016,50.57740701,8.237565103,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+ETH,Ethiopia,2017,42.81604355,7.046651644,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+ETH,Ethiopia,2018,34.334949,5.723731301,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+ETH,Ethiopia,2019,26.71252452,3.89912634,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+ETH,Ethiopia,2020,47.16394277,7.994652522,33,251.0,Ethiopian birr,1.0,4.0,Ethiopian,8.0,38.0
+GAB,Gabon,2010,172.4023132,43.27861882,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GAB,Gabon,2011,201.0870733,50.17910797,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GAB,Gabon,2012,226.0832006,55.68761585,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GAB,Gabon,2013,241.2427208,53.26787525,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GAB,Gabon,2014,259.9205795,52.85133653,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GAB,Gabon,2015,253.9257658,45.03660964,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GAB,Gabon,2016,230.2774508,40.01478885,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GAB,Gabon,2017,218.9211985,36.74069968,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GAB,Gabon,2018,209.3701257,33.95618316,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GAB,Gabon,2019,206.6479762,32.65611634,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GAB,Gabon,2020,215.4610385,40.88013147,35,241.0,Central African CFA franc,1.0,2.0,Gabonese,-1.0,11.75
+GEO,Georgia,2010,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GEO,Georgia,2011,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GEO,Georgia,2012,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GEO,Georgia,2013,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GEO,Georgia,2014,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GEO,Georgia,2015,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GEO,Georgia,2016,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GEO,Georgia,2017,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GEO,Georgia,2018,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GEO,Georgia,2019,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GEO,Georgia,2020,0.0,0.0,37,995.0,Georgian lari,3.0,11.0,Georgian,42.0,43.5
+GHA,Ghana,2010,372.6970307,135.6663303,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GHA,Ghana,2011,377.6233383,119.822807,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GHA,Ghana,2012,365.8262048,108.4389567,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GHA,Ghana,2013,338.555428,96.39700409,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GHA,Ghana,2014,307.6462232,85.30035804,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GHA,Ghana,2015,274.4000798,73.78502948,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GHA,Ghana,2016,236.9909004,63.2522976,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GHA,Ghana,2017,205.5097373,53.47015331,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GHA,Ghana,2018,184.2085627,49.49847027,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GHA,Ghana,2019,178.521943,46.68226356,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GHA,Ghana,2020,205.9549534,55.80511411,38,233.0,Ghanaian cedi,1.0,3.0,Ghanaian,8.0,-2.0
+GIN,Guinea,2010,406.7509113,127.1049148,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GIN,Guinea,2011,421.8602041,124.8613177,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GIN,Guinea,2012,429.7428353,122.1210158,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GIN,Guinea,2013,414.7399071,115.893121,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GIN,Guinea,2014,398.8508345,105.998291,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GIN,Guinea,2015,382.2166866,97.35530703,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GIN,Guinea,2016,360.8133079,89.03501037,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GIN,Guinea,2017,353.731248,87.30070946,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GIN,Guinea,2018,349.2692489,90.13692507,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GIN,Guinea,2019,327.8498671,85.65230166,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GIN,Guinea,2020,319.805603,93.37867087,40,224.0,Guinean franc,1.0,3.0,Guinean,11.0,-10.0
+GMB,Gambia,2010,236.1481307,68.59861914,36,,,,,,,
+GMB,Gambia,2011,394.328148,119.8177442,36,,,,,,,
+GMB,Gambia,2012,447.6613158,119.2814452,36,,,,,,,
+GMB,Gambia,2013,379.9978134,96.90494659,36,,,,,,,
+GMB,Gambia,2014,237.1133759,56.94508864,36,,,,,,,
+GMB,Gambia,2015,312.7108332,67.93097413,36,,,,,,,
+GMB,Gambia,2016,193.0624432,44.15077216,36,,,,,,,
+GMB,Gambia,2017,92.9765609,21.67638511,36,,,,,,,
+GMB,Gambia,2018,100.6557305,23.24784921,36,,,,,,,
+GMB,Gambia,2019,61.12029526,12.43196361,36,,,,,,,
+GMB,Gambia,2020,92.62051793,19.69359156,36,,,,,,,
+GNB,Guinea-Bissau,2010,124.6260353,26.17919182,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNB,Guinea-Bissau,2011,127.8858327,27.15192976,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNB,Guinea-Bissau,2012,121.2891562,27.28004017,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNB,Guinea-Bissau,2013,111.8321761,24.61711222,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNB,Guinea-Bissau,2014,95.0434114,20.0184684,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNB,Guinea-Bissau,2015,78.49437856,17.22764051,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNB,Guinea-Bissau,2016,65.64488605,14.08874864,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNB,Guinea-Bissau,2017,57.10567113,11.89938728,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNB,Guinea-Bissau,2018,56.74060951,11.92201437,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNB,Guinea-Bissau,2019,63.46060677,12.61251298,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNB,Guinea-Bissau,2020,88.06510527,21.70764003,41,245.0,West African CFA franc,1.0,3.0,Bissau-Guinean,12.0,-15.0
+GNQ,Equatorial Guinea,2010,312.4981313,101.3592633,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GNQ,Equatorial Guinea,2011,310.3061004,98.69327499,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GNQ,Equatorial Guinea,2012,328.212262,103.455722,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GNQ,Equatorial Guinea,2013,347.7120597,105.4613669,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GNQ,Equatorial Guinea,2014,345.0189418,100.3037259,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GNQ,Equatorial Guinea,2015,333.649212,98.6178308,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GNQ,Equatorial Guinea,2016,319.9030277,88.70320653,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GNQ,Equatorial Guinea,2017,296.2176055,78.67007198,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GNQ,Equatorial Guinea,2018,265.8117392,70.0367417,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GNQ,Equatorial Guinea,2019,246.2958618,66.15797397,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GNQ,Equatorial Guinea,2020,241.8815401,68.17613234,31,240.0,Central African CFA franc,1.0,2.0,"Equatorial Guinean, Equatoguinean",2.0,10.0
+GTM,Guatemala,2010,0.006564907487,0.002887722368,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GTM,Guatemala,2011,0.01360179782,0.006822806861,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GTM,Guatemala,2012,0.01129400229,0.005677839497,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GTM,Guatemala,2013,0.01978869209,0.01002151693,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GTM,Guatemala,2014,0.007899743917,0.003832168485,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GTM,Guatemala,2015,0.008123589384,0.003379717535,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GTM,Guatemala,2016,0.00123145752,0.0005402813372,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GTM,Guatemala,2017,0.001428671159,0.0005622294795,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GTM,Guatemala,2018,0.001248215597,0.0003486820257,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GTM,Guatemala,2019,0.0,0.0,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GTM,Guatemala,2020,0.0,0.0,39,502.0,Guatemalan quetzal,2.0,9.0,Guatemalan,15.5,-90.25
+GUF,French Guiana,2010,8.073195534,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUF,French Guiana,2011,5.479491302,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUF,French Guiana,2012,3.690101364,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUF,French Guiana,2013,5.269093171,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUF,French Guiana,2014,1.958299079,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUF,French Guiana,2015,0.7421885345,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUF,French Guiana,2016,0.5212067275,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUF,French Guiana,2017,0.5766180193,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUF,French Guiana,2018,2.146549567,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUF,French Guiana,2019,0.1144936592,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUF,French Guiana,2020,0.02637349078,0.0,34,594.0,Euro,2.0,8.0,French Guianese,4.0,-53.0
+GUY,Guyana,2010,33.70523195,9.655984298,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+GUY,Guyana,2011,54.79318492,16.85290564,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+GUY,Guyana,2012,54.14464952,16.06089158,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+GUY,Guyana,2013,57.60043535,17.62051028,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+GUY,Guyana,2014,16.67652425,4.84908205,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+GUY,Guyana,2015,14.28124844,4.186395455,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+GUY,Guyana,2016,15.33074544,4.473868175,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+GUY,Guyana,2017,21.18355088,5.896515406,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+GUY,Guyana,2018,24.01399367,8.252485333,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+GUY,Guyana,2019,22.50959743,5.107404535,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+GUY,Guyana,2020,20.96484082,5.297698262,42,592.0,Guyanese dollar,2.0,8.0,Guyanese,5.0,-59.0
+HND,Honduras,2010,0.2277127,0.03359286954,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HND,Honduras,2011,0.1451826848,0.02301601861,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HND,Honduras,2012,0.138327687,0.02171497517,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HND,Honduras,2013,0.2799459731,0.04096812954,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HND,Honduras,2014,0.1331543873,0.01939407647,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HND,Honduras,2015,0.1989643486,0.02853065491,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HND,Honduras,2016,0.2687962953,0.03629447366,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HND,Honduras,2017,0.02993482366,0.003953344104,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HND,Honduras,2018,0.01629690734,0.002310658673,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HND,Honduras,2019,0.003277520027,0.000313316737,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HND,Honduras,2020,0.04584479552,0.004598331947,44,504.0,Honduran lempira,2.0,9.0,Honduran,15.0,-86.5
+HTI,Haiti,2010,38.39838343,28.05309395,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+HTI,Haiti,2011,15.62956889,12.58296127,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+HTI,Haiti,2012,12.65039078,9.968914119,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+HTI,Haiti,2013,9.161623281,7.180658273,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+HTI,Haiti,2014,6.23537723,4.414966425,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+HTI,Haiti,2015,6.2719393,4.111053274,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+HTI,Haiti,2016,6.301456997,4.173917163,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+HTI,Haiti,2017,5.964258672,3.7135156,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+HTI,Haiti,2018,2.757061383,1.662206836,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+HTI,Haiti,2019,3.247470662,1.571518666,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+HTI,Haiti,2020,6.666322343,3.438074754,43,509.0,Haitian gourde,2.0,7.0,Haitian,19.0,-72.41666666
+IDN,Indonesia,2010,3.005380067,1.489493389,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IDN,Indonesia,2011,2.490930361,1.121476176,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IDN,Indonesia,2012,2.437709368,0.9234468218,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IDN,Indonesia,2013,1.992648763,0.6541857164,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IDN,Indonesia,2014,1.446858086,0.4364139909,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IDN,Indonesia,2015,1.434421287,0.389954586,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IDN,Indonesia,2016,1.46669048,0.4424241413,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IDN,Indonesia,2017,1.784776642,0.4489801706,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IDN,Indonesia,2018,1.547224133,0.3510391069,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IDN,Indonesia,2019,1.887152709,0.3618443568,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IDN,Indonesia,2020,2.086207886,0.8100944731,46,62.0,Indonesian rupiah,3.0,13.0,Indonesian,-5.0,120.0
+IND,India,2010,8.118877125,5.541426007,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IND,India,2011,6.887021682,4.747147367,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IND,India,2012,5.016836579,3.834325362,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IND,India,2013,3.644071072,2.911196898,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IND,India,2014,5.047053031,4.585073495,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IND,India,2015,5.390745586,5.275448475,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IND,India,2016,3.794903051,3.576671804,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IND,India,2017,2.083305528,1.951044399,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IND,India,2018,1.668715979,1.704747342,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IND,India,2019,1.398822993,1.162515623,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IND,India,2020,2.036805941,1.727279952,45,91.0,Indian rupee,3.0,14.0,Indian,20.0,77.0
+IRN,Iran,2010,0.0020223728,0.0008810846754,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRN,Iran,2011,0.002039541042,0.001079401656,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRN,Iran,2012,0.0005878808384,0.0003204319054,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRN,Iran,2013,0.0009511244949,0.0004998668853,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRN,Iran,2014,0.0002652514804,0.0001218250652,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRN,Iran,2015,9.997936917e-05,4.519603124e-05,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRN,Iran,2016,0.0,0.0,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRN,Iran,2017,3.005973261e-05,7.20576395e-06,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRN,Iran,2018,4.567762652e-05,1.851644823e-05,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRN,Iran,2019,0.0001671822896,1.734589198e-05,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRN,Iran,2020,0.0003373072991,3.474198121e-05,47,98.0,Iranian rial,3.0,14.0,"Iranian, Persian",32.0,53.0
+IRQ,Iraq,2010,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+IRQ,Iraq,2011,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+IRQ,Iraq,2012,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+IRQ,Iraq,2013,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+IRQ,Iraq,2014,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+IRQ,Iraq,2015,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+IRQ,Iraq,2016,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+IRQ,Iraq,2017,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+IRQ,Iraq,2018,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+IRQ,Iraq,2019,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+IRQ,Iraq,2020,0.0,0.0,48,964.0,Iraqi dinar,3.0,11.0,Iraqi,33.0,44.0
+KEN,Kenya,2010,64.02174779,8.9028012,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KEN,Kenya,2011,65.88212707,4.763530765,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KEN,Kenya,2012,68.79018213,4.601415736,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KEN,Kenya,2013,71.34974474,8.813221361,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KEN,Kenya,2014,70.74706459,11.04513371,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KEN,Kenya,2015,68.76972974,11.00931881,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KEN,Kenya,2016,65.9601279,10.89014599,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KEN,Kenya,2017,62.54150338,9.925375386,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KEN,Kenya,2018,59.74955342,9.558304312,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KEN,Kenya,2019,56.45072753,8.856621164,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KEN,Kenya,2020,49.7026055,9.182695662,49,254.0,Kenyan shilling,1.0,4.0,Kenyan,1.0,38.0
+KGZ,Kyrgyzstan,2010,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KGZ,Kyrgyzstan,2011,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KGZ,Kyrgyzstan,2012,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KGZ,Kyrgyzstan,2013,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KGZ,Kyrgyzstan,2014,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KGZ,Kyrgyzstan,2015,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KGZ,Kyrgyzstan,2016,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KGZ,Kyrgyzstan,2017,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KGZ,Kyrgyzstan,2018,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KGZ,Kyrgyzstan,2019,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KGZ,Kyrgyzstan,2020,0.0,0.0,50,996.0,Kyrgyzstani som,3.0,10.0,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",41.0,75.0
+KHM,Cambodia,2010,9.612946478,5.125240603,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KHM,Cambodia,2011,8.606508301,4.198479886,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KHM,Cambodia,2012,4.348700548,1.942619158,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KHM,Cambodia,2013,2.445534167,1.093964829,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KHM,Cambodia,2014,4.163772328,1.81969026,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KHM,Cambodia,2015,5.31345113,1.78790477,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KHM,Cambodia,2016,3.353172981,1.018028839,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KHM,Cambodia,2017,5.988785462,1.810808232,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KHM,Cambodia,2018,2.316566874,0.7012987871,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KHM,Cambodia,2019,0.8063712137,0.1841690356,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KHM,Cambodia,2020,0.3208801671,0.07788924751,15,855.0,Cambodian riel,3.0,13.0,Cambodian,13.0,105.0
+KOR,South Korea,2010,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+KOR,South Korea,2011,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+KOR,South Korea,2012,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+KOR,South Korea,2013,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+KOR,South Korea,2014,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+KOR,South Korea,2015,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+KOR,South Korea,2016,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+KOR,South Korea,2017,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+KOR,South Korea,2018,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+KOR,South Korea,2019,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+KOR,South Korea,2020,0.0,0.0,84,82.0,Won,3.0,12.0,South Korean,37.0,127.5
+LAO,Laos,2010,8.658021266,3.58710944,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LAO,Laos,2011,5.675937592,2.231714195,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LAO,Laos,2012,15.78213402,5.83550833,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LAO,Laos,2013,9.854876854,3.607579993,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LAO,Laos,2014,9.856397727,3.495824771,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LAO,Laos,2015,5.826972659,1.573471879,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LAO,Laos,2016,1.860047216,0.4702236778,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LAO,Laos,2017,1.80197672,0.4483106315,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LAO,Laos,2018,1.6633134,0.3925307484,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LAO,Laos,2019,0.7138921947,0.1499270159,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LAO,Laos,2020,0.5511645295,0.122135839,51,856.0,Lao kip,3.0,13.0,"Lao, Laotian",18.0,105.0
+LBR,Liberia,2010,337.3966934,124.8370544,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LBR,Liberia,2011,327.004101,121.4897202,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LBR,Liberia,2012,313.7294159,97.56433493,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LBR,Liberia,2013,322.2611342,87.86529758,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LBR,Liberia,2014,342.0675117,97.0984528,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LBR,Liberia,2015,347.901777,99.81678972,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LBR,Liberia,2016,373.2618852,101.4236564,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LBR,Liberia,2017,392.2959765,107.3721907,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LBR,Liberia,2018,383.2450255,109.2619223,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LBR,Liberia,2019,369.6476479,100.9800233,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LBR,Liberia,2020,358.6214039,122.2199759,52,231.0,Liberian dollar,1.0,3.0,Liberian,6.5,-9.5
+LKA,Sri Lanka,2010,0.0009955972447,0.0006038556925,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+LKA,Sri Lanka,2011,0.0001474426077,6.747936088e-05,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+LKA,Sri Lanka,2012,0.0001916687745,8.290784094e-05,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+LKA,Sri Lanka,2013,0.0,0.0,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+LKA,Sri Lanka,2014,0.0,0.0,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+LKA,Sri Lanka,2015,0.0,0.0,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+LKA,Sri Lanka,2016,0.0,0.0,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+LKA,Sri Lanka,2017,0.0,0.0,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+LKA,Sri Lanka,2018,0.0,0.0,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+LKA,Sri Lanka,2019,0.0,0.0,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+LKA,Sri Lanka,2020,0.0,0.0,86,94.0,Sri Lankan rupee,3.0,14.0,Sri Lankan,7.0,81.0
+MAR,Morocco,2010,1.49e-19,3.06e-08,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MAR,Morocco,2011,2.17e-19,1.52e-08,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MAR,Morocco,2012,1.71e-07,1.75e-07,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MAR,Morocco,2013,1.73e-19,1.85e-08,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MAR,Morocco,2014,0.0,0.0,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MAR,Morocco,2015,0.0,0.0,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MAR,Morocco,2016,0.0,0.0,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MAR,Morocco,2017,0.0,0.0,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MAR,Morocco,2018,0.0,0.0,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MAR,Morocco,2019,0.0,0.0,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MAR,Morocco,2020,0.0,0.0,60,212.0,Moroccan dirham,1.0,1.0,Moroccan,32.0,-5.0
+MDG,Madagascar,2010,86.22654659,29.67859727,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MDG,Madagascar,2011,80.54394176,26.54315591,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MDG,Madagascar,2012,83.45057533,26.68275152,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MDG,Madagascar,2013,91.18426143,28.73955957,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MDG,Madagascar,2014,95.19890636,29.24155648,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MDG,Madagascar,2015,92.70649074,27.61738516,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MDG,Madagascar,2016,87.90825353,25.73193928,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MDG,Madagascar,2017,84.70695644,23.78943986,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MDG,Madagascar,2018,82.32797584,21.57671288,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MDG,Madagascar,2019,82.89002863,21.90905614,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MDG,Madagascar,2020,92.60231334,24.96987798,53,261.0,Malagasy ariary,1.0,4.0,Malagasy,-20.0,47.0
+MEX,Mexico,2010,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MEX,Mexico,2011,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MEX,Mexico,2012,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MEX,Mexico,2013,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MEX,Mexico,2014,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MEX,Mexico,2015,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MEX,Mexico,2016,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MEX,Mexico,2017,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MEX,Mexico,2018,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MEX,Mexico,2019,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MEX,Mexico,2020,0.0,0.0,59,52.0,Mexican peso,2.0,6.0,Mexican,23.0,-102.0
+MLI,Mali,2010,393.0859513,151.4999832,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MLI,Mali,2011,409.7428583,155.8118049,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MLI,Mali,2012,429.4368884,159.7381093,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MLI,Mali,2013,432.9635382,158.3680738,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MLI,Mali,2014,413.8426633,148.1333566,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MLI,Mali,2015,374.5982347,130.152538,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MLI,Mali,2016,296.0029252,98.70840778,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MLI,Mali,2017,233.7454858,74.92102927,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MLI,Mali,2018,204.2613309,66.59081921,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MLI,Mali,2019,212.0219873,70.76328221,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MLI,Mali,2020,274.2845105,98.46533135,56,223.0,West African CFA franc,1.0,3.0,"Malian, Malinese",17.0,-4.0
+MMR,Myanmar,2010,21.41623147,21.84593085,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MMR,Myanmar,2011,18.06067304,17.73509404,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MMR,Myanmar,2012,21.94714337,19.82039432,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MMR,Myanmar,2013,15.35512777,12.00229112,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MMR,Myanmar,2014,9.434438428,6.480010017,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MMR,Myanmar,2015,7.236320171,4.715037188,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MMR,Myanmar,2016,4.442957647,2.516538566,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MMR,Myanmar,2017,3.760106622,2.110917457,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MMR,Myanmar,2018,2.475450986,2.307165113,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MMR,Myanmar,2019,1.924116362,6.523323539,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MMR,Myanmar,2020,1.439908861,3.114329093,62,95.0,Burmese kyat,3.0,13.0,Burmese,22.0,98.0
+MOZ,Mozambique,2010,371.804988,87.86940228,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MOZ,Mozambique,2011,368.0256375,84.82998856,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MOZ,Mozambique,2012,367.055101,80.54882223,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MOZ,Mozambique,2013,366.4060179,75.39156122,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MOZ,Mozambique,2014,355.9926321,67.95253495,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MOZ,Mozambique,2015,347.7719899,61.75144614,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MOZ,Mozambique,2016,341.5708787,59.06365877,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MOZ,Mozambique,2017,328.1009146,55.51837785,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MOZ,Mozambique,2018,315.2610741,55.23136092,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MOZ,Mozambique,2019,303.982848,50.87700173,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MOZ,Mozambique,2020,320.8300163,68.48671712,61,258.0,Mozambican metical,1.0,4.0,Mozambican,-18.25,35.0
+MRT,Mauritania,2010,76.73517098,22.90909697,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MRT,Mauritania,2011,102.7757004,29.01320951,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MRT,Mauritania,2012,53.44503458,14.89068391,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MRT,Mauritania,2013,61.83927366,16.62956277,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MRT,Mauritania,2014,123.898519,31.60227902,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MRT,Mauritania,2015,152.9223925,38.70786506,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MRT,Mauritania,2016,190.9246686,47.33861322,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MRT,Mauritania,2017,145.3025472,38.26381412,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MRT,Mauritania,2018,148.1250552,38.53152698,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MRT,Mauritania,2019,112.1744149,23.68406748,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MRT,Mauritania,2020,119.201139,35.44981723,57,222.0,Mauritanian ouguiya,1.0,3.0,Mauritanian,20.0,-12.0
+MWI,Malawi,2010,379.3917008,59.21890811,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MWI,Malawi,2011,364.9436712,48.25939661,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MWI,Malawi,2012,320.1823073,42.425931,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MWI,Malawi,2013,287.1023083,43.8630979,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MWI,Malawi,2014,261.8342198,41.95729398,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MWI,Malawi,2015,240.8399721,39.22867118,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MWI,Malawi,2016,224.8483338,36.31955384,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MWI,Malawi,2017,217.9428654,33.79515945,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MWI,Malawi,2018,208.4676866,32.94477419,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MWI,Malawi,2019,205.8724399,32.01704765,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MWI,Malawi,2020,229.0492186,39.97550197,54,265.0,Malawian kwacha,1.0,4.0,Malawian,-13.5,34.0
+MYS,Malaysia,2010,0.09793401445,0.03805948904,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYS,Malaysia,2011,0.04924399421,0.01659063327,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYS,Malaysia,2012,0.04820405238,0.0148856815,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYS,Malaysia,2013,0.0902520343,0.02571153124,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYS,Malaysia,2014,0.07695955965,0.01995483634,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYS,Malaysia,2015,0.01004478138,0.002316744127,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYS,Malaysia,2016,0.005960926686,0.00125226027,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYS,Malaysia,2017,0.002424958738,0.0004810149828,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYS,Malaysia,2018,0.0001001315052,7.885018054e-06,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYS,Malaysia,2019,0.0001208971134,8.644191526e-06,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYS,Malaysia,2020,0.0001404306441,1.759965613e-05,55,60.0,Malaysian ringgit,3.0,13.0,Malaysian,2.5,112.5
+MYT,Mayotte,2010,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+MYT,Mayotte,2011,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+MYT,Mayotte,2012,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+MYT,Mayotte,2013,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+MYT,Mayotte,2014,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+MYT,Mayotte,2015,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+MYT,Mayotte,2016,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+MYT,Mayotte,2017,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+MYT,Mayotte,2018,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+MYT,Mayotte,2019,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+MYT,Mayotte,2020,0.0,0.0,58,262.0,Euro,1.0,4.0,Mahoran,-12.83333333,45.16666666
+NAM,Namibia,2010,1.764418056,0.3137818871,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NAM,Namibia,2011,2.174745112,0.3190354355,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NAM,Namibia,2012,0.3015639945,0.04087841236,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NAM,Namibia,2013,5.151628036,0.604898427,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NAM,Namibia,2014,16.89742617,1.669599579,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NAM,Namibia,2015,9.520513336,0.7620927086,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NAM,Namibia,2016,20.10236589,1.636875462,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NAM,Namibia,2017,53.96537066,4.451715756,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NAM,Namibia,2018,30.59393951,3.376716777,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NAM,Namibia,2019,17.92245295,2.561671509,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NAM,Namibia,2020,12.01200836,1.349141824,63,264.0,Namibian dollar,1.0,5.0,Namibian,-22.0,17.0
+NER,Niger,2010,414.3481625,212.5799391,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NER,Niger,2011,428.1176232,214.0523045,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NER,Niger,2012,429.7186045,210.7015124,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NER,Niger,2013,416.6251247,193.0091224,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NER,Niger,2014,409.304889,172.2049622,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NER,Niger,2015,403.9150767,161.5209229,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NER,Niger,2016,387.5678271,150.8954232,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NER,Niger,2017,364.3302627,139.0890923,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NER,Niger,2018,344.9269031,136.4958507,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NER,Niger,2019,326.5780595,133.6096319,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NER,Niger,2020,325.1952972,137.9494482,66,227.0,West African CFA franc,1.0,3.0,Nigerien,16.0,8.0
+NGA,Nigeria,2010,373.2587415,149.6895983,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NGA,Nigeria,2011,350.5023601,135.4820694,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NGA,Nigeria,2012,328.053765,119.8740813,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NGA,Nigeria,2013,308.1847186,107.0446273,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NGA,Nigeria,2014,297.3432822,99.18377904,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NGA,Nigeria,2015,292.5424215,94.16346815,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NGA,Nigeria,2016,293.9235831,89.65532997,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NGA,Nigeria,2017,297.9619294,87.73425464,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NGA,Nigeria,2018,299.0206067,90.00628204,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NGA,Nigeria,2019,300.4425374,92.8504755,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NGA,Nigeria,2020,313.8424367,103.3970057,67,234.0,Nigerian naira,1.0,3.0,Nigerian,10.0,8.0
+NIC,Nicaragua,2010,0.04751999219,0.007978281433,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NIC,Nicaragua,2011,0.04719542077,0.007611311731,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NIC,Nicaragua,2012,0.06896197408,0.01137238824,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NIC,Nicaragua,2013,0.05925316909,0.00943200571,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NIC,Nicaragua,2014,0.04401173511,0.006817895448,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NIC,Nicaragua,2015,0.09677406896,0.01449109497,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NIC,Nicaragua,2016,0.3447434988,0.05104076687,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NIC,Nicaragua,2017,0.4847373149,0.06458343829,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NIC,Nicaragua,2018,0.3455115005,0.05939562846,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NIC,Nicaragua,2019,0.6301622928,0.07030779603,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NIC,Nicaragua,2020,3.103555363,0.4245542887,65,505.0,Nicaraguan córdoba,2.0,9.0,Nicaraguan,13.0,-85.0
+NPL,Nepal,2010,0.1591856962,0.1133023713,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+NPL,Nepal,2011,0.07375696129,0.05810569681,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+NPL,Nepal,2012,0.1480820135,0.1245071957,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+NPL,Nepal,2013,0.04312441219,0.03895594698,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+NPL,Nepal,2014,0.0220863356,0.02083348681,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+NPL,Nepal,2015,0.02460304474,0.02578819213,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+NPL,Nepal,2016,0.01655863341,0.01536699129,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+NPL,Nepal,2017,0.009468858562,0.009335633242,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+NPL,Nepal,2018,0.003777206871,0.003914955039,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+NPL,Nepal,2019,0.001985343574,0.001549702475,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+NPL,Nepal,2020,0.001258912845,0.001035130557,64,977.0,Nepalese rupee,3.0,14.0,"Nepali, Nepalese",28.0,84.0
+OMN,Oman,2010,0.001024147321,0.0004903394648,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+OMN,Oman,2011,0.0002726143506,0.0001298960552,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+OMN,Oman,2012,0.0002600911163,0.0001222729591,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+OMN,Oman,2013,0.0001683126428,7.860555156e-05,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+OMN,Oman,2014,0.0005087423459,0.0002268932953,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+OMN,Oman,2015,0.0007034467604,0.0001024123872,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+OMN,Oman,2016,0.0006574349415,0.0001211564774,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+OMN,Oman,2017,0.0005927995853,7.716291833e-05,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+OMN,Oman,2018,0.0004193624418,8.915360624e-05,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+OMN,Oman,2019,0.0005381060525,2.444995443e-05,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+OMN,Oman,2020,0.0006336944655,6.76731029e-05,69,968.0,Omani rial,3.0,11.0,Omani,21.0,57.0
+PAK,Pakistan,2010,7.689166801,5.351634619,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAK,Pakistan,2011,7.220385711,5.876286464,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAK,Pakistan,2012,6.136894332,5.927622898,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAK,Pakistan,2013,2.346861175,2.055022387,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAK,Pakistan,2014,1.915042515,1.594072852,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAK,Pakistan,2015,1.841789797,1.663111355,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAK,Pakistan,2016,1.863648671,1.487431427,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAK,Pakistan,2017,2.193919135,1.756785294,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAK,Pakistan,2018,1.906967322,1.804532762,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAK,Pakistan,2019,2.633908499,1.924393691,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAK,Pakistan,2020,2.334129091,1.724246217,70,92.0,Pakistani rupee,3.0,14.0,Pakistani,30.0,70.0
+PAN,Panama,2010,0.01098123402,0.003876255379,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PAN,Panama,2011,0.0005391459358,0.0001543199572,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PAN,Panama,2012,0.0005588359221,0.0001926848447,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PAN,Panama,2013,0.0,0.0,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PAN,Panama,2014,0.0,0.0,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PAN,Panama,2015,0.0,0.0,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PAN,Panama,2016,0.01088373925,0.002321202082,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PAN,Panama,2017,0.0002614001995,3.345901675e-05,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PAN,Panama,2018,0.0,0.0,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PAN,Panama,2019,0.0,0.0,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PAN,Panama,2020,0.0,0.0,71,507.0,Panamanian balboa,2.0,9.0,Panamanian,9.0,-80.0
+PER,Peru,2010,0.1472351803,0.02135802015,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PER,Peru,2011,0.1879418901,0.03062835169,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PER,Peru,2012,0.2029901847,0.03550279925,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PER,Peru,2013,0.6942406089,0.1207998799,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PER,Peru,2014,0.8741684857,0.1449554758,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PER,Peru,2015,0.8363922383,0.1430056289,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PER,Peru,2016,0.7807726905,0.1325055278,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PER,Peru,2017,0.6897211399,0.1143133464,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PER,Peru,2018,0.4638859333,0.1010296333,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PER,Peru,2019,0.2350026271,0.02562783635,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PER,Peru,2020,0.1620303583,0.01641815508,74,51.0,Peruvian sol,2.0,8.0,Peruvian,-10.0,-76.0
+PHL,Philippines,2010,0.4207354838,0.3142242013,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PHL,Philippines,2011,0.2073232783,0.1358194599,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PHL,Philippines,2012,0.1544908863,0.09205226819,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PHL,Philippines,2013,0.1628736198,0.08430796125,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PHL,Philippines,2014,0.1401663275,0.06717987261,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PHL,Philippines,2015,0.2450584763,0.120703369,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PHL,Philippines,2016,0.158576696,0.06585851827,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PHL,Philippines,2017,0.1607717088,0.06087745221,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PHL,Philippines,2018,0.1275387233,0.05701471932,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PHL,Philippines,2019,0.1515298107,0.04622941108,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PHL,Philippines,2020,0.1764472695,0.0529549572,75,63.0,Philippine peso,3.0,13.0,"Philippine, Filipino",13.0,122.0
+PNG,Papua New Guinea,2010,60.76853724,23.15184161,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PNG,Papua New Guinea,2011,48.19716997,16.66816777,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PNG,Papua New Guinea,2012,48.90063162,15.46269229,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PNG,Papua New Guinea,2013,73.62630959,22.0339906,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PNG,Papua New Guinea,2014,68.35500028,19.56759673,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PNG,Papua New Guinea,2015,43.14051492,12.02937037,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PNG,Papua New Guinea,2016,66.33477243,17.95668974,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PNG,Papua New Guinea,2017,58.3697432,16.09459685,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PNG,Papua New Guinea,2018,59.42426609,16.66432428,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PNG,Papua New Guinea,2019,53.46377882,10.53293734,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PNG,Papua New Guinea,2020,66.9417064,14.0753659,72,675.0,Papua New Guinean kina,5.0,20.0,"Papua New Guinean, Papuan",-6.0,147.0
+PRK,North Korea,2010,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRK,North Korea,2011,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRK,North Korea,2012,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRK,North Korea,2013,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRK,North Korea,2014,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRK,North Korea,2015,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRK,North Korea,2016,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRK,North Korea,2017,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRK,North Korea,2018,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRK,North Korea,2019,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRK,North Korea,2020,0.0,0.0,68,850.0,North Korean Won,3.0,12.0,North Korean,40.0,127.0
+PRY,Paraguay,2010,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+PRY,Paraguay,2011,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+PRY,Paraguay,2012,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+PRY,Paraguay,2013,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+PRY,Paraguay,2014,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+PRY,Paraguay,2015,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+PRY,Paraguay,2016,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+PRY,Paraguay,2017,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+PRY,Paraguay,2018,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+PRY,Paraguay,2019,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+PRY,Paraguay,2020,0.0,0.0,73,595.0,Paraguayan guarani,2.0,8.0,Paraguayan,-23.0,-58.0
+RWA,Rwanda,2010,71.01176942,31.62946629,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+RWA,Rwanda,2011,71.09362101,30.65041038,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+RWA,Rwanda,2012,61.83843993,26.41192778,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+RWA,Rwanda,2013,50.87699246,20.85858048,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+RWA,Rwanda,2014,47.96376043,18.96364268,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+RWA,Rwanda,2015,50.3760743,18.94955493,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+RWA,Rwanda,2016,57.93223514,20.84292359,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+RWA,Rwanda,2017,66.71277158,22.28855615,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+RWA,Rwanda,2018,66.14013844,22.83354076,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+RWA,Rwanda,2019,58.005844,20.06813705,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+RWA,Rwanda,2020,45.86150223,16.17520043,76,250.0,Rwandan franc,1.0,4.0,Rwandan,-2.0,30.0
+SAU,Saudi Arabia,2010,0.001041782807,0.0005562254042,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SAU,Saudi Arabia,2011,0.002399117486,0.001238670715,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SAU,Saudi Arabia,2012,0.002762562542,0.001323795247,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SAU,Saudi Arabia,2013,0.0009444984251,0.0004450162648,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SAU,Saudi Arabia,2014,0.001618939251,0.0006768444463,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SAU,Saudi Arabia,2015,0.002562477803,0.001110340358,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SAU,Saudi Arabia,2016,0.008117493149,0.003449582908,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SAU,Saudi Arabia,2017,0.005042149864,0.002233330848,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SAU,Saudi Arabia,2018,0.005188788067,0.002828051133,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SAU,Saudi Arabia,2019,0.003442453616,0.0002463486829,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SAU,Saudi Arabia,2020,0.005617962987,0.0004577334757,78,966.0,Saudi riyal,3.0,11.0,"Saudi, Saudi Arabian",25.0,45.0
+SDN,Sudan,2010,31.09168433,5.599517949,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SDN,Sudan,2011,30.93341105,5.347148191,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SDN,Sudan,2012,31.41106271,5.335132802,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SDN,Sudan,2013,33.1912546,5.481975963,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SDN,Sudan,2014,36.64198675,5.950833452,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SDN,Sudan,2015,40.10053769,6.766867949,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SDN,Sudan,2016,43.48300821,7.457074537,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SDN,Sudan,2017,49.4228842,8.25899078,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SDN,Sudan,2018,53.94284358,6.976842256,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SDN,Sudan,2019,59.39653412,7.087651999,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SDN,Sudan,2020,66.0863982,8.26278092,87,249.0,Sudanese pound,1.0,1.0,Sudanese,15.0,30.0
+SEN,Senegal,2010,129.5016138,47.88173024,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SEN,Senegal,2011,112.3201342,39.35956607,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SEN,Senegal,2012,124.2186008,42.02940447,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SEN,Senegal,2013,109.3317953,34.13732863,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SEN,Senegal,2014,69.95822771,21.1592111,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SEN,Senegal,2015,110.6691869,31.40699495,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SEN,Senegal,2016,79.06824255,22.62324721,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SEN,Senegal,2017,84.31580795,25.68356052,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SEN,Senegal,2018,106.9685206,33.65865605,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SEN,Senegal,2019,77.50096394,20.79798099,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SEN,Senegal,2020,101.4618183,25.42581059,79,221.0,West African CFA franc,1.0,3.0,Senegalese,14.0,-14.0
+SLB,Solomon Islands,2010,122.8591095,60.78070626,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLB,Solomon Islands,2011,78.52703534,36.47510877,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLB,Solomon Islands,2012,63.15012149,28.50182761,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLB,Solomon Islands,2013,55.79731633,23.01094569,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLB,Solomon Islands,2014,36.68719364,15.11824795,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLB,Solomon Islands,2015,38.32059915,15.0806983,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLB,Solomon Islands,2016,56.33728557,20.80813345,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLB,Solomon Islands,2017,53.23547141,19.12700667,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLB,Solomon Islands,2018,52.53007885,18.02954227,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLB,Solomon Islands,2019,52.10813569,13.56505772,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLB,Solomon Islands,2020,48.86706707,13.28865528,81,677.0,Solomon Islands dollar,5.0,20.0,Solomon Island,-8.0,159.0
+SLE,Sierra Leone,2010,448.07102,213.1593878,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLE,Sierra Leone,2011,441.3301733,194.7130869,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLE,Sierra Leone,2012,429.6283455,171.8723859,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLE,Sierra Leone,2013,414.0969682,152.4212987,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLE,Sierra Leone,2014,400.7932348,138.9676657,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLE,Sierra Leone,2015,391.7674182,138.8704451,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLE,Sierra Leone,2016,386.240899,136.844468,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLE,Sierra Leone,2017,369.6118533,125.5569171,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLE,Sierra Leone,2018,361.8769284,121.2448316,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLE,Sierra Leone,2019,347.4771616,111.2946249,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLE,Sierra Leone,2020,329.0432799,134.8949323,80,232.0,Sierra Leonean leone,1.0,3.0,Sierra Leonean,8.5,-11.5
+SLV,El Salvador,2010,0.0,0.0,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SLV,El Salvador,2011,0.0005092179164,0.01036213489,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SLV,El Salvador,2012,0.0,0.0,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SLV,El Salvador,2013,0.0,0.0,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SLV,El Salvador,2014,0.0,0.0,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SLV,El Salvador,2015,0.0,0.0,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SLV,El Salvador,2016,0.0,0.0,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SLV,El Salvador,2017,0.0,0.0,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SLV,El Salvador,2018,0.0,0.0,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SLV,El Salvador,2019,0.0,0.0,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SLV,El Salvador,2020,0.0,0.0,30,503.0,United States dollar,2.0,9.0,Salvadoran,13.83333333,-88.91666666
+SOM,Somalia,2010,33.32191696,6.641544699,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SOM,Somalia,2011,29.36474944,5.423816581,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SOM,Somalia,2012,27.8153477,5.102385186,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SOM,Somalia,2013,30.07441908,5.708950306,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SOM,Somalia,2014,36.17852323,6.560701447,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SOM,Somalia,2015,46.50157105,8.236698265,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SOM,Somalia,2016,64.57037035,10.89599835,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SOM,Somalia,2017,87.89546171,13.91447436,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SOM,Somalia,2018,106.8364932,17.81044573,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SOM,Somalia,2019,111.9711697,18.58327536,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SOM,Somalia,2020,111.406703,18.69276599,82,252.0,Somali shilling,1.0,4.0,"Somali, Somalian",10.0,49.0
+SSD,South Sudan,2010,277.9336122,58.01446222,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+SSD,South Sudan,2011,284.0568717,57.49967883,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+SSD,South Sudan,2012,285.266192,56.32326005,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+SSD,South Sudan,2013,287.6380019,56.759724,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+SSD,South Sudan,2014,279.8033782,55.58710397,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+SSD,South Sudan,2015,274.7974397,57.93029262,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+SSD,South Sudan,2016,270.2123726,55.44533297,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+SSD,South Sudan,2017,281.4068444,56.47680619,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+SSD,South Sudan,2018,279.9665743,54.65016156,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+SSD,South Sudan,2019,308.9384266,62.70831376,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+SSD,South Sudan,2020,300.9282344,62.66319624,85,211.0,South Sudanese pound,1.0,2.0,South Sudanese,7.0,30.0
+STP,Sao Tome And Principe,2010,28.1406776,9.146736148,77,,,,,,,
+STP,Sao Tome And Principe,2011,84.69654689,24.92664646,77,,,,,,,
+STP,Sao Tome And Principe,2012,125.4146908,38.85961119,77,,,,,,,
+STP,Sao Tome And Principe,2013,100.1512975,25.85999102,77,,,,,,,
+STP,Sao Tome And Principe,2014,18.94600219,3.620472931,77,,,,,,,
+STP,Sao Tome And Principe,2015,18.91728598,3.29245222,77,,,,,,,
+STP,Sao Tome And Principe,2016,19.95301628,3.31723949,77,,,,,,,
+STP,Sao Tome And Principe,2017,19.82588481,2.966215582,77,,,,,,,
+STP,Sao Tome And Principe,2018,25.52978751,3.358332342,77,,,,,,,
+STP,Sao Tome And Principe,2019,22.99204532,3.03678633,77,,,,,,,
+STP,Sao Tome And Principe,2020,16.71168276,2.994693841,77,,,,,,,
+SUR,Suriname,2010,2.748712308,0.7656529705,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SUR,Suriname,2011,1.329911885,0.3740473679,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SUR,Suriname,2012,0.8699250867,0.2504502808,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SUR,Suriname,2013,1.277664096,0.3774460047,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SUR,Suriname,2014,0.9723101428,0.2753923318,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SUR,Suriname,2015,0.1320135381,0.03387534694,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SUR,Suriname,2016,0.08164179702,0.02413017244,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SUR,Suriname,2017,0.02428888214,0.006273054791,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SUR,Suriname,2018,0.03085348022,0.01323523679,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SUR,Suriname,2019,0.0,0.0,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SUR,Suriname,2020,0.0,0.0,88,597.0,Surinamese dollar,2.0,8.0,Surinamese,4.0,-56.0
+SWZ,eSwatini,2010,1.727514023,0.6674699358,105,,,,,,,
+SWZ,eSwatini,2011,1.163970706,0.4181086893,105,,,,,,,
+SWZ,eSwatini,2012,1.18469825,0.4210397798,105,,,,,,,
+SWZ,eSwatini,2013,2.697072931,0.8658994483,105,,,,,,,
+SWZ,eSwatini,2014,0.9463627123,0.2862717295,105,,,,,,,
+SWZ,eSwatini,2015,0.8009655795,0.2124828953,105,,,,,,,
+SWZ,eSwatini,2016,0.5925325461,0.1606595697,105,,,,,,,
+SWZ,eSwatini,2017,1.060097722,0.3254736787,105,,,,,,,
+SWZ,eSwatini,2018,1.648864396,0.3761433718,105,,,,,,,
+SWZ,eSwatini,2019,0.5699492466,0.0922324452,105,,,,,,,
+SWZ,eSwatini,2020,0.5897346378,0.1286591875,105,,,,,,,
+SYR,Syria,2010,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+SYR,Syria,2011,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+SYR,Syria,2012,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+SYR,Syria,2013,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+SYR,Syria,2014,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+SYR,Syria,2015,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+SYR,Syria,2016,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+SYR,Syria,2017,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+SYR,Syria,2018,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+SYR,Syria,2019,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+SYR,Syria,2020,0.0,0.0,89,963.0,Syrian pound,3.0,11.0,Syrian,35.0,38.0
+TCD,Chad,2010,233.5183824,65.96772983,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TCD,Chad,2011,217.6424998,58.41276551,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TCD,Chad,2012,202.3903609,51.3792801,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TCD,Chad,2013,190.3931542,47.44699513,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TCD,Chad,2014,188.7097495,46.11102357,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TCD,Chad,2015,189.6572982,44.86659708,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TCD,Chad,2016,192.7319506,45.94242482,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TCD,Chad,2017,196.3211077,46.79106751,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TCD,Chad,2018,206.1052553,47.17870132,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TCD,Chad,2019,203.2612083,47.7544392,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TCD,Chad,2020,206.5916905,52.01432755,19,235.0,Central African CFA franc,1.0,2.0,Chadian,15.0,19.0
+TGO,Togo,2010,318.5719965,102.188813,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+TGO,Togo,2011,316.8514463,99.48899643,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+TGO,Togo,2012,341.3140964,100.9359398,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+TGO,Togo,2013,367.1622074,103.4611247,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+TGO,Togo,2014,364.9671166,98.36359781,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+TGO,Togo,2015,352.4715316,92.55733697,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+TGO,Togo,2016,320.3283426,80.48664245,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+TGO,Togo,2017,273.561367,67.75022789,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+TGO,Togo,2018,244.9189519,65.16452565,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+TGO,Togo,2019,229.1431394,60.93460635,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+TGO,Togo,2020,228.6750761,62.10498828,94,228.0,West African CFA franc,1.0,3.0,Togolese,8.0,1.16666666
+THA,Thailand,2010,0.3645861888,0.1625210088,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+THA,Thailand,2011,0.3320643817,0.1229841664,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+THA,Thailand,2012,0.3863724998,0.1242247855,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+THA,Thailand,2013,0.4005499567,0.1221173171,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+THA,Thailand,2014,0.3323811893,0.09096641015,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+THA,Thailand,2015,0.07767697807,0.01679338851,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+THA,Thailand,2016,0.0381242721,0.007183829219,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+THA,Thailand,2017,0.0,0.0,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+THA,Thailand,2018,0.0,0.0,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+THA,Thailand,2019,0.0,0.0,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+THA,Thailand,2020,0.0,0.0,92,66.0,Thai baht,3.0,13.0,Thai,15.0,100.0
+TJK,Tajikistan,2010,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TJK,Tajikistan,2011,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TJK,Tajikistan,2012,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TJK,Tajikistan,2013,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TJK,Tajikistan,2014,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TJK,Tajikistan,2015,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TJK,Tajikistan,2016,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TJK,Tajikistan,2017,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TJK,Tajikistan,2018,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TJK,Tajikistan,2019,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TJK,Tajikistan,2020,0.0,0.0,90,992.0,Tajikistani somoni,3.0,10.0,Tajikistani,39.0,71.0
+TKM,Turkmenistan,2010,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TKM,Turkmenistan,2011,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TKM,Turkmenistan,2012,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TKM,Turkmenistan,2013,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TKM,Turkmenistan,2014,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TKM,Turkmenistan,2015,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TKM,Turkmenistan,2016,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TKM,Turkmenistan,2017,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TKM,Turkmenistan,2018,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TKM,Turkmenistan,2019,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TKM,Turkmenistan,2020,0.0,0.0,96,993.0,Turkmenistan manat,3.0,10.0,Turkmen,40.0,60.0
+TLS,Timor-Leste,2010,64.29397208,35.625621,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TLS,Timor-Leste,2011,22.20125501,11.14902737,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TLS,Timor-Leste,2012,2.934681295,1.269826566,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TLS,Timor-Leste,2013,0.5822123497,0.233136993,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TLS,Timor-Leste,2014,0.2135421441,0.07905008712,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TLS,Timor-Leste,2015,0.0511831261,0.01695098973,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TLS,Timor-Leste,2016,0.07600194819,0.02381400452,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TLS,Timor-Leste,2017,0.01130305646,0.003364582111,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TLS,Timor-Leste,2018,0.0,0.0,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TLS,Timor-Leste,2019,0.0,0.0,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TLS,Timor-Leste,2020,0.0,0.0,93,670.0,United States dollar,3.0,13.0,Timorese,-8.83333333,125.91666666
+TUR,Turkey,2010,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TUR,Turkey,2011,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TUR,Turkey,2012,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TUR,Turkey,2013,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TUR,Turkey,2014,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TUR,Turkey,2015,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TUR,Turkey,2016,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TUR,Turkey,2017,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TUR,Turkey,2018,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TUR,Turkey,2019,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TUR,Turkey,2020,0.0,0.0,95,90.0,Turkish lira,3.0,11.0,Turkish,39.0,35.0
+TZA,Tanzania,2010,137.3731639,26.44241318,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+TZA,Tanzania,2011,127.4337966,22.427615,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+TZA,Tanzania,2012,124.6389342,19.53578067,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+TZA,Tanzania,2013,134.5185416,21.07651847,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+TZA,Tanzania,2014,144.9089416,23.00864463,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+TZA,Tanzania,2015,140.3043052,22.05593927,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+TZA,Tanzania,2016,131.2826181,20.05456926,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+TZA,Tanzania,2017,123.570748,18.19636078,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+TZA,Tanzania,2018,114.9250083,17.15337726,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+TZA,Tanzania,2019,111.8400422,16.5430759,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+TZA,Tanzania,2020,120.0662429,21.69567793,91,255.0,Tanzanian shilling,1.0,4.0,Tanzanian,-6.0,35.0
+UGA,Uganda,2010,390.3259505,122.1486528,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UGA,Uganda,2011,371.3999717,103.0335446,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UGA,Uganda,2012,350.6859861,83.04171717,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UGA,Uganda,2013,311.5965864,66.28771216,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UGA,Uganda,2014,292.0124459,57.21170276,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UGA,Uganda,2015,272.2792279,58.30653937,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UGA,Uganda,2016,266.2603652,54.40039802,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UGA,Uganda,2017,262.5811327,53.25922817,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UGA,Uganda,2018,237.7429931,48.1397503,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UGA,Uganda,2019,204.5006953,41.35554952,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UGA,Uganda,2020,239.3594077,68.01011994,97,256.0,Ugandan shilling,1.0,4.0,Ugandan,1.0,32.0
+UZB,Uzbekistan,2010,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+UZB,Uzbekistan,2011,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+UZB,Uzbekistan,2012,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+UZB,Uzbekistan,2013,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+UZB,Uzbekistan,2014,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+UZB,Uzbekistan,2015,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+UZB,Uzbekistan,2016,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+UZB,Uzbekistan,2017,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+UZB,Uzbekistan,2018,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+UZB,Uzbekistan,2019,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+UZB,Uzbekistan,2020,0.0,0.0,98,998.0,Uzbekistani soʻm,3.0,10.0,"Uzbekistani, Uzbek",41.0,64.0
+VEN,Venezuela,2010,0.8214059794,0.2219657153,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VEN,Venezuela,2011,0.7214147787,0.1971962036,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VEN,Venezuela,2012,0.783765888,0.2138263898,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VEN,Venezuela,2013,1.521236681,0.4362463891,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VEN,Venezuela,2014,1.397039776,0.3952372886,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VEN,Venezuela,2015,2.479692174,0.7339259176,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VEN,Venezuela,2016,3.508346976,1.005193599,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VEN,Venezuela,2017,5.732245153,1.706701147,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VEN,Venezuela,2018,6.334510406,1.914205615,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VEN,Venezuela,2019,5.296086436,1.355314671,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VEN,Venezuela,2020,2.915598279,0.7405195654,100,58.0,Bolívar,2.0,8.0,Venezuelan,8.0,-66.0
+VNM,Vietnam,2010,0.3291903804,0.2721468374,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VNM,Vietnam,2011,0.2735985246,0.1870788283,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VNM,Vietnam,2012,0.298973496,0.1825450548,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VNM,Vietnam,2013,0.2463712847,0.1334228486,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VNM,Vietnam,2014,0.2060905995,0.09944817421,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VNM,Vietnam,2015,0.1117594846,0.05394517508,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VNM,Vietnam,2016,0.0609108394,0.0244944929,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VNM,Vietnam,2017,0.1009406239,0.03827590351,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VNM,Vietnam,2018,0.05258270491,0.02068584384,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VNM,Vietnam,2019,0.05992274037,0.01855630936,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VNM,Vietnam,2020,0.02616441672,0.008628911076,101,84.0,Vietnamese đồng,3.0,13.0,Vietnamese,16.16666666,107.83333333
+VUT,Vanuatu,2010,30.77496738,13.46846252,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+VUT,Vanuatu,2011,18.86934023,7.478830253,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+VUT,Vanuatu,2012,15.51953357,5.496551791,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+VUT,Vanuatu,2013,9.403432801,2.847401689,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+VUT,Vanuatu,2014,2.611070241,0.7113640488,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+VUT,Vanuatu,2015,1.258558389,0.3181013808,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+VUT,Vanuatu,2016,1.472166972,0.3428998245,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+VUT,Vanuatu,2017,1.952041392,0.4322752779,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+VUT,Vanuatu,2018,0.3126743551,0.07619595747,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+VUT,Vanuatu,2019,0.23034437,0.0377334552,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+VUT,Vanuatu,2020,0.2332861907,0.03935903071,99,678.0,Vanuatu vatu,5.0,20.0,"Ni-Vanuatu, Vanuatuan",-16.0,167.0
+YEM,Yemen,2010,28.63313195,28.40876679,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+YEM,Yemen,2011,24.93992245,25.82657505,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+YEM,Yemen,2012,27.16912629,28.62674449,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+YEM,Yemen,2013,25.36217942,23.73103091,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+YEM,Yemen,2014,27.73320939,26.73016133,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+YEM,Yemen,2015,24.35515365,23.95985119,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+YEM,Yemen,2016,27.62564987,27.80882844,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+YEM,Yemen,2017,33.67482352,33.77680193,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+YEM,Yemen,2018,35.90751939,31.78804175,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+YEM,Yemen,2019,36.73789897,20.81544027,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+YEM,Yemen,2020,32.8598567,18.17006592,102,967.0,Yemeni rial,3.0,11.0,Yemeni,15.0,48.0
+ZAF,South Africa,2010,0.498495344,0.09841756738,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZAF,South Africa,2011,0.6084006431,0.1131924655,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZAF,South Africa,2012,0.3875686382,0.06993674945,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZAF,South Africa,2013,0.7832530595,0.133050685,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZAF,South Africa,2014,0.7723594035,0.1172182386,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZAF,South Africa,2015,0.03654592514,0.00502518072,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZAF,South Africa,2016,0.08410572582,0.01207276596,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZAF,South Africa,2017,1.568108103,0.2521566634,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZAF,South Africa,2018,0.6832902712,0.1204226372,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZAF,South Africa,2019,0.2216093009,0.02790094455,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZAF,South Africa,2020,0.3299723184,0.06585341727,83,27.0,South African rand,1.0,5.0,South African,-29.0,24.0
+ZMB,Zambia,2010,168.4755293,24.78913684,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZMB,Zambia,2011,180.5119566,22.9246003,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZMB,Zambia,2012,200.3486317,24.84123646,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZMB,Zambia,2013,227.6134777,28.63596438,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZMB,Zambia,2014,232.3186405,28.82953534,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZMB,Zambia,2015,219.3227916,26.83943524,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZMB,Zambia,2016,205.9687526,25.34449639,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZMB,Zambia,2017,185.2472723,22.44904874,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZMB,Zambia,2018,178.8396933,23.86426573,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZMB,Zambia,2019,174.3987473,22.31611156,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZMB,Zambia,2020,187.2748205,29.8127658,103,260.0,Zambian kwacha,1.0,5.0,Zambian,-15.0,30.0
+ZWE,Zimbabwe,2010,199.6742149,74.90552303,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
+ZWE,Zimbabwe,2011,87.58653675,30.74061499,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
+ZWE,Zimbabwe,2012,64.62948225,20.98468765,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
+ZWE,Zimbabwe,2013,96.82937061,29.66234337,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
+ZWE,Zimbabwe,2014,120.7421261,34.11693019,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
+ZWE,Zimbabwe,2015,106.5200958,26.17691116,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
+ZWE,Zimbabwe,2016,72.62142779,17.54899654,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
+ZWE,Zimbabwe,2017,110.7458256,26.48446184,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
+ZWE,Zimbabwe,2018,58.69257384,14.74526119,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
+ZWE,Zimbabwe,2019,62.06530781,11.95504331,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
+ZWE,Zimbabwe,2020,91.95322704,17.83873143,104,263.0,Zimbabwe Dollar,1.0,4.0,Zimbabwean,-20.0,30.0
