@@ -1,4 +1,3 @@
-# mon_wed_27718_Malaria-Incidence-Prediction-and-Analysis
 # 🦟 Malaria Incidence Prediction and Analysis
 
 ## 📌 Project Overview
@@ -74,6 +73,7 @@ Capstone Project – Big Data Analytics
 Instructor: *Eric Maniraguha*
 
 ---
+
 
 ## 📬 Contact
 
