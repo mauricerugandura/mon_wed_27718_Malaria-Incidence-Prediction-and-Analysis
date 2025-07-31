@@ -118,7 +118,7 @@ pivot_df["Year"] = pivot_df["Year"].astype(int)
 print("Missing values per column:")
 print(pivot_df.isnull().sum())
 ```
-![Dashboard Screenshot](screenshoots/missingvalues.png)
+![Dashboard Screenshot](screenshoots/[missingvalues.png](https://github.com/mauricerugandura/mon_wed_27718_Malaria-Incidence-Prediction-and-Analysis/blob/33094b3d0226397472b22ed317d72c7d306094aa/screenshoots/missing%20values.PNG))
 ```python
 # Final preview
 print("\nCleaned Data Sample:")
