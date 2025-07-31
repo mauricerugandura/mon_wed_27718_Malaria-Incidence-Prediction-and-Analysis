@@ -383,3 +383,4 @@ Countries = DISTINCT(SELECTCOLUMNS(malaria_cleaned, "Country_Code", malaria_clea
 **POWER BI FOR ML(Machine Learning)
 ---
 ![Screenshoots](screenshoots/ml.PNG)
+
