@@ -309,8 +309,9 @@ print("R-squared (R²):", r2)
 ```
 
 ![Screenshoots](screenshoots/model.PNG)
----
+
 **INNOVATION**
+---
 ```python
 # Predict incidence rate in 2030 for Rwanda
 rwanda_code = le.transform(["Rwanda"])[0]
