@@ -63,6 +63,7 @@ Using historical malaria metrics from national health units, we analyze trends a
 - **Power BI**
 - **VS Code**
 - **Jupyter Notebook**
+- **Power point**
 
 ---
 
@@ -325,6 +326,8 @@ future_prediction = model.predict(future_data)
 print("Predicted Malaria Incidence Rate in Rwanda (2030):", future_prediction[0])
 ```
 ![Screenshoots](screenshoots/incident_rate.PNG)
+
+---
 ```python
 # This saves the cleaned malaria data for Power BI
 pivot_df.to_csv("malaria_cleaned.csv", index=False)
